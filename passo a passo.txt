@@ -1,0 +1,12 @@
+Passo a passo 
+
+1- entrar no desktop
+2- entrar na pasta do projeto
+3- git init
+4- git config --local user.name ""
+5- git config --local user.email""
+6- git add .
+8- git commit -m ""
+9- git status
+10- copiar o segundo blobo de branch
+11- adicionar o token
